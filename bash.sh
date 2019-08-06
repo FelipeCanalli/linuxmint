@@ -19,3 +19,5 @@ echo __________                    (imprimi)
 exemplo : _______________ > __________.sh
 modifica local e data
 exemplo : touch senac.sh
+cat _____ ( mostra o conteudo do arquivo )
+cat -n ( mostra o número de linhas ) 
