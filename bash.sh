@@ -19,5 +19,21 @@ echo __________                    (imprimi)
 exemplo : _______________ > __________.sh
 modifica local e data
 exemplo : touch senac.sh
-cat _____ ( mostra o conteudo do arquivo )
-cat -n ( mostra o número de linhas ) 
+
+cat _____                            ( mostra o conteudo do arquivo )
+cat -n                           ( mostra o número de linhas ) 
+
+head _____                 (listar o cabeçario do arquivo) apenas 10 linhas
+head -nnº ______ (quantas linhas quer ver)
+
+
+tail   _______          ( mostra o final do arquivo)
+tail -n nº ______ (quantas linhas quer ver)
+
+less LICENSE (paginador) sai com o Q
+|            ( o final de um é o começo do outro )
+
+
+
+
+cat -n LICENSE| head -n200 | tail -n101 | less | echo > senac.sh
