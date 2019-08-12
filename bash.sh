@@ -14,3 +14,9 @@ cd ______                (abre o diretorio)
 pwd                      ( diretorio corrente )
 mkdir _____                (criar diretorio)
 &&                       (se o 1º comando for excecutado com sucesso ir para o 2º)
+cat 
+cat -n 
+head 
+tail
+echo                         ( imprime na tela )
+echo >    
