@@ -1,2 +1,2 @@
 # linuxmint
-Conhecendo o Bas Shell do Linux Mint
+Conhecendo o Bash Shell do Linux Mint
